@@ -13,8 +13,8 @@
   ],
   "name":"Menu",
   "parent":{
-    "name":"Choque de imperios",
-    "path":"Choque de imperios.yyp",
+    "name":"Menu",
+    "path":"folders/Sala/Menu.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
